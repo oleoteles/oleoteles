@@ -9,7 +9,7 @@ Sou estudante da desenvolvimento de software da EBAC, onde estou realizando o cu
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oleoteles&repo=projeto_final&theme=dark)](https://github.com/oleoteles/projeto_final)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oleoteles&repo=projeto_final&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens utilizadas
 
